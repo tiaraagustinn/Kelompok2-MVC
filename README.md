@@ -32,9 +32,6 @@ Both projects have been refactored to follow the MVC design pattern. The refacto
 2. Clone the Repository:
 
    - Clone this repository to your local machine or download the ZIP file and extract it.
-
-     bash
-     git clone git@github.com:khalidalghifari/MVC-Native-PHP-Kelompok4.git
      
 
 3. Import the Database:
@@ -56,16 +53,6 @@ Both projects have been refactored to follow the MVC design pattern. The refacto
 
    bash
    composer update
-   
-
-   If you want to open Student Result Management System project:
-   bash
-   cd Kelompok2-MVC\mvc-client-management-system\public
-   
-   If you want to open Online Fire Reporting System Using PHP and MySQL project:
-   bash
-   cd Kelompok2-MVC\mvc-gym-management-system\public
-
    
 
    bash
