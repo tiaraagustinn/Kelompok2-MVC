@@ -58,13 +58,14 @@ Both projects have been refactored to follow the MVC design pattern. The refacto
    composer update
    
 
-   If you want to open client-management-system project:
+   If you want to open Student Result Management System project:
    bash
-   cd Kelompok4-MVC\mvc-client-management-system\public
+   cd Kelompok2-MVC\mvc-client-management-system\public
    
-   If you want to open gym-management-system project:
+   If you want to open Online Fire Reporting System Using PHP and MySQL project:
    bash
-   cd Kelompok4-MVC\mvc-gym-management-system\public
+   cd Kelompok2-MVC\mvc-gym-management-system\public
+
    
 
    bash
