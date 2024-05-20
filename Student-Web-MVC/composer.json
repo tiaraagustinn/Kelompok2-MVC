@@ -1,0 +1,14 @@
+{
+    "name": "klp-2/student-web-mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
+
+
+
+
